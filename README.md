@@ -12,7 +12,7 @@ Whether you are a beginner or an aspiring Data Analyst, this repository is desig
 Name: Gourav Pal
 
 I create educational content focused on:
-
+Passionate Data Analyst.
 * Microsoft Power BI
 * SQL & SQL Server
 * Data Analytics
@@ -90,6 +90,8 @@ Resources/
 All lectures are explained practically on my YouTube channel.
 
 Please watch the videos alongside the files available in this repository for the best learning experience.
+Channel name is Comedy Ka Pitara By Gopal
+https://www.youtube.com/@englishstrength875
 
 ⭐ Support
 
